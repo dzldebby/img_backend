@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d581f60f-72cb-44fb-8883-44a800d7640c" name="Default Changelist" comment="" />
+    <list default="true" id="d581f60f-72cb-44fb-8883-44a800d7640c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/file.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/file.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1m5OYKrsufwCFpOMxpavcjgeuGT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -113,10 +122,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609143564897">
+    <state x="405" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609207592214">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984/1280.0.1920.1040@0.0.1280.984" timestamp="1609143564897" />
+    <state x="405" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.984/1280.0.1920.1040@0.0.1280.984" timestamp="1609207592214" />
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609210308855">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984/1280.0.1920.1040@0.0.1280.984" timestamp="1609210308855" />
     <state x="420" y="247" key="FileChooserDialogImpl" timestamp="1609132511233">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
@@ -158,16 +171,5 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="303" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1280.984/1280.0.1920.1040@0.0.1280.984" timestamp="1608968511103" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/server.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
